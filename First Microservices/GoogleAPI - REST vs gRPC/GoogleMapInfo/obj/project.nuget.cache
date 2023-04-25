@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SqFCHn8BAmNj8+FmD2LsmfM5syK4IgSd9sPAt2FAX4k0nwzc4HD0+zGAS5vAAfLQDWxZ2yJzcOC77maV0BASg==",
+  "success": true,
+  "projectFilePath": "C:\\VS Projects\\GoogleMapInfo\\GoogleMapInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

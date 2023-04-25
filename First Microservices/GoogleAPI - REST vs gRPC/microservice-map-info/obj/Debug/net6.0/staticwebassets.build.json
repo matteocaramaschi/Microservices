@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pjH8fxQGGDIHtY+6lsaiCCxKlAHgECymuTnquuSjpYY=",
+  "Source": "microservice-map-info",
+  "BasePath": "_content/microservice-map-info",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

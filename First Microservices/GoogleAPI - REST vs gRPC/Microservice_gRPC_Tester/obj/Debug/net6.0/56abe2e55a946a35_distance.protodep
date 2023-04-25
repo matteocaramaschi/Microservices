@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Distance.cs \
+obj\Debug\net6.0/DistanceGrpc.cs: ../microservice-map-info/Protos/distance.proto

@@ -1,0 +1,12 @@
+C:\VS Projects\GoogleMapInfo\bin\Debug\net6.0\GoogleMapInfo.deps.json
+C:\VS Projects\GoogleMapInfo\bin\Debug\net6.0\GoogleMapInfo.dll
+C:\VS Projects\GoogleMapInfo\bin\Debug\net6.0\GoogleMapInfo.pdb
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.csproj.AssemblyReference.cache
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.AssemblyInfoInputs.cache
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.AssemblyInfo.cs
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.csproj.CoreCompileInputs.cache
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.dll
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\refint\GoogleMapInfo.dll
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.pdb
+C:\VS Projects\GoogleMapInfo\obj\Debug\net6.0\ref\GoogleMapInfo.dll
