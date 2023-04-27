@@ -1,0 +1,24 @@
+C:\VS Projects\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.deps.json
+C:\VS Projects\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.dll
+C:\VS Projects\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.pdb
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.AssemblyReference.cache
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfoInputs.cache
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfo.cs
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.CoreCompileInputs.cache
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.dll
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\refint\MessageContracts.dll
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.pdb
+C:\VS Projects\MessageMicroservices\MessageContracts\obj\Debug\net6.0\ref\MessageContracts.dll
+C:\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.deps.json
+C:\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.dll
+C:\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.pdb
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.AssemblyReference.cache
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfoInputs.cache
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfo.cs
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.CoreCompileInputs.cache
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.dll
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\refint\MessageContracts.dll
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.pdb
+C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\ref\MessageContracts.dll

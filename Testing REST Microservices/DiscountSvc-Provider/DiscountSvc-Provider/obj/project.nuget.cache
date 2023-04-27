@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzp+R/ScqBkaM2DovaxLqExya3VVLDzjXhrg12+nvgCwQ3+OL7Nwvwa0/ieLq1s/ic5eCD9MzJ0G2uZF2mdjCA==",
+  "success": true,
+  "projectFilePath": "C:\\DiscountSvc-Provider\\DiscountSvc-Provider\\DiscountSvc-Provider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

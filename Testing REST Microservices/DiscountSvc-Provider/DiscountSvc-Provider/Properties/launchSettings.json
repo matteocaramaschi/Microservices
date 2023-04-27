@@ -1,0 +1,30 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:26710",
+      "sslPort": 44302
+    }
+  },
+  "profiles": {
+    "DiscountSvc_Provider": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,   //don't need to launch in browser
+      "applicationUrl": "http://localhost:8080",  //custom URI not to override one in use
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

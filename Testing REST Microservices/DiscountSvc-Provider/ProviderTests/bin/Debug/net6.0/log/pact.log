@@ -1,0 +1,15 @@
+# Logfile created on 2023-04-26 17:44:45 -0700 by logger.rb/47272
+I, [2023-04-26T17:44:45.845863 #7232]  INFO -- : Running example 'Verifying a pact between Orders and Discounts Given Rate Given a customer rating, an adjustment discount amount will be returned. with POST /discount returns a response which has status code 200'
+I, [2023-04-26T17:44:45.846862 #7232]  INFO -- : Sending POST request to path: "/discount" with headers: {"CONTENT_TYPE"=>"application/json; charset=utf-8", "HTTP_X_PACT_ORIGINAL_HEADER_NAMES"=>"Content-Type", "X_PACT_PROVIDER_STATES"=>[{"name"=>"Rate"}]}, see debug logs for body
+D, [2023-04-26T17:44:45.847864 #7232] DEBUG -- : body :{"customerRating":4.1,"amountToDiscount":0.0}
+I, [2023-04-26T17:44:50.047463 #7232]  INFO -- : Running example 'Verifying a pact between Orders and Discounts Given Rate Given a customer rating, an adjustment discount amount will be returned. with POST /discount returns a response which has a matching body'
+I, [2023-04-26T17:44:50.048463 #7232]  INFO -- : Sending POST request to path: "/discount" with headers: {"CONTENT_TYPE"=>"application/json; charset=utf-8", "HTTP_X_PACT_ORIGINAL_HEADER_NAMES"=>"Content-Type", "X_PACT_PROVIDER_STATES"=>[{"name"=>"Rate"}]}, see debug logs for body
+D, [2023-04-26T17:44:50.048463 #7232] DEBUG -- : body :{"customerRating":4.1,"amountToDiscount":0.0}
+I, [2023-04-26T17:44:54.139221 #7232]  INFO -- : Running example 'Verifying a pact between Orders and Discounts Given Rate Given a customer rating, an adjustment discount amount will be returned. with POST /discount returns a response which includes headers "Content-Type" which equals "application/json; charset=utf-8"'
+I, [2023-04-26T17:44:54.141227 #7232]  INFO -- : Sending POST request to path: "/discount" with headers: {"CONTENT_TYPE"=>"application/json; charset=utf-8", "HTTP_X_PACT_ORIGINAL_HEADER_NAMES"=>"Content-Type", "X_PACT_PROVIDER_STATES"=>[{"name"=>"Rate"}]}, see debug logs for body
+D, [2023-04-26T17:44:54.141227 #7232] DEBUG -- : body :{"customerRating":4.1,"amountToDiscount":0.0}
+I, [2023-04-26T17:46:43.928571 #7216]  INFO -- : Running example 'Verifying a pact between Orders and Discounts Given Rate Given a customer rating, an adjustment discount amount will be returned. with POST /discount returns a response which has status code 200'
+I, [2023-04-26T17:46:43.930573 #7216]  INFO -- : Sending POST request to path: "/discount" with headers: {"CONTENT_TYPE"=>"application/json; charset=utf-8", "HTTP_X_PACT_ORIGINAL_HEADER_NAMES"=>"Content-Type", "X_PACT_PROVIDER_STATES"=>[{"name"=>"Rate"}]}, see debug logs for body
+D, [2023-04-26T17:46:43.930573 #7216] DEBUG -- : body :{"customerRating":4.1,"amountToDiscount":0.0}
+I, [2023-04-26T17:46:44.210569 #7216]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json; charset=utf-8", "Date"=>"Thu, 27 Apr 2023 00:46:43 GMT", "Server"=>"Kestrel", "Content-Length"=>"46"}, see debug logs for body
+D, [2023-04-26T17:46:44.210569 #7216] DEBUG -- : body: {"customerRating":4.1,"amountToDiscount":0.41}

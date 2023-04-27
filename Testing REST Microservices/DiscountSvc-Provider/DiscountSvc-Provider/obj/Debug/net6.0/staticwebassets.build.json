@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1MB0RFkX6rlqpnVdiw8XgTnh3Tjgh++34MlUcwZbsdw=",
+  "Source": "DiscountSvc-Provider",
+  "BasePath": "_content/DiscountSvc-Provider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

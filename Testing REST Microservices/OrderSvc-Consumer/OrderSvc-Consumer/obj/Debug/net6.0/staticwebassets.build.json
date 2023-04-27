@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IRrQRyadAirOhdDiWJ5pm/8Q5J7vTGwLOZoEmfJKbCw=",
+  "Source": "OrderSvc-Consumer",
+  "BasePath": "_content/OrderSvc-Consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
