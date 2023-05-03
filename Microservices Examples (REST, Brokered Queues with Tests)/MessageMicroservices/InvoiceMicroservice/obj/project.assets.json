@@ -978,11 +978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MessageMicroservices\\InvoiceMicroservice\\InvoiceMicroservice.csproj",
+      "projectUniqueName": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\InvoiceMicroservice\\InvoiceMicroservice.csproj",
       "projectName": "InvoiceMicroservice",
-      "projectPath": "C:\\MessageMicroservices\\InvoiceMicroservice\\InvoiceMicroservice.csproj",
+      "projectPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\InvoiceMicroservice\\InvoiceMicroservice.csproj",
       "packagesPath": "C:\\Users\\Matteo\\.nuget\\packages\\",
-      "outputPath": "C:\\MessageMicroservices\\InvoiceMicroservice\\obj\\",
+      "outputPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\InvoiceMicroservice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matteo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -999,8 +999,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj": {
-              "projectPath": "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj"
+            "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj": {
+              "projectPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj"
             }
           }
         }

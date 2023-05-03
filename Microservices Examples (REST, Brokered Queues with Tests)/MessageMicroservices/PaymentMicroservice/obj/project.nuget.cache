@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FLzh70YdfpSrDUJH40y6iRH6bWTGVad7qd0vitaotdTM1cOo347ZggQErC8ivRiYR4YMFHRSOmXoK4yN1IeeWA==",
+  "dgSpecHash": "Rn3gWhAamXZMwGqPipQkklxMqiih8emDuYs+B4Rl2tfLEKo42RWE6Fq2MR51ENVHrKTHsqOcrKJIB9V54QGfgw==",
   "success": true,
-  "projectFilePath": "C:\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj",
+  "projectFilePath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matteo\\.nuget\\packages\\masstransit\\8.0.14\\masstransit.8.0.14.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\masstransit.abstractions\\8.0.14\\masstransit.abstractions.8.0.14.nupkg.sha512",
@@ -16,6 +16,7 @@
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

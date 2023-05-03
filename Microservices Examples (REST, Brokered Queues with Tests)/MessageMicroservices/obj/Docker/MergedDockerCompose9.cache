@@ -1,0 +1,25 @@
+name: dockercompose14743784946594739304
+services:
+  consumertests:
+    build:
+      context: C:\Microservices\Microservices Examples (REST, Brokered Queues with
+        Tests)\MessageMicroservices
+      dockerfile: ConsumerTests/Dockerfile
+    image: consumertests
+    networks:
+      default: null
+  mssql:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: myStrongPassword1!
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose14743784946594739304_default

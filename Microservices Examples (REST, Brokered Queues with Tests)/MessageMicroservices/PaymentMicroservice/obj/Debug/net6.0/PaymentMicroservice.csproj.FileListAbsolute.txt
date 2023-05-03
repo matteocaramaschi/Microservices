@@ -62,3 +62,35 @@ C:\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\refint\PaymentMicro
 C:\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.pdb
 C:\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.genruntimeconfig.cache
 C:\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\ref\PaymentMicroservice.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\PaymentMicroservice.exe
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\PaymentMicroservice.deps.json
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\PaymentMicroservice.runtimeconfig.json
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\PaymentMicroservice.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\PaymentMicroservice.pdb
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\MassTransit.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\System.Text.Json.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\MessageContracts.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\bin\Debug\net6.0\MessageContracts.pdb
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.csproj.AssemblyReference.cache
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.AssemblyInfoInputs.cache
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.AssemblyInfo.cs
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.csproj.CoreCompileInputs.cache
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.csproj.CopyComplete
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\refint\PaymentMicroservice.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.pdb
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\PaymentMicroservice.genruntimeconfig.cache
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\PaymentMicroservice\obj\Debug\net6.0\ref\PaymentMicroservice.dll

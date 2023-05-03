@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
+      "projectUniqueName": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
       "projectName": "MessageContracts",
-      "projectPath": "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
+      "projectPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
       "packagesPath": "C:\\Users\\Matteo\\.nuget\\packages\\",
-      "outputPath": "C:\\MessageMicroservices\\MessageContracts\\obj\\",
+      "outputPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matteo\\AppData\\Roaming\\NuGet\\NuGet.Config",

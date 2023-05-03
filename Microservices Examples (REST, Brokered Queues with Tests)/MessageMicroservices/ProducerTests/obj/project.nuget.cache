@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kA4LAXi8n9EIgonzBwVVq4g1diuyDb6CMQ6QfwbCjdBRuTxfuJBGCyQOFhDzeQNIS/ptwx6TZw41cr3MM8BzSQ==",
+  "dgSpecHash": "x+vJ8jXiPfiFOTvkps5/xTEoHKARlT8fWUINvSb2ZN2N3gb6ersxkgm6yMDcJywYdqGTAl7LNQWO4M7IEsUNJQ==",
   "success": true,
-  "projectFilePath": "C:\\MessageMicroservices\\ProducerTests\\ProducerTests.csproj",
+  "projectFilePath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\ProducerTests\\ProducerTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matteo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",

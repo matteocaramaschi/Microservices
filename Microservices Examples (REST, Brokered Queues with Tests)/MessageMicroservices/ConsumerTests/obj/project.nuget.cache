@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YzvRnjY6BmvyuKOThA6UM52loqnTv5m8RChzn0YUPNxhlmHUVZ9U0VSTaWsWD2t6/9ih/pgyKIKJWDPKZ9Sesg==",
+  "dgSpecHash": "nIb3R0a5WzTcDCf6p7+hFANnszlv14/cav9tmetQhqXfJPpTX8lGbuz8HL6RupeGwkvcWLNbxgkDr0iZs4p1sQ==",
   "success": true,
-  "projectFilePath": "C:\\MessageMicroservices\\ConsumerTests\\ConsumerTests.csproj",
+  "projectFilePath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\ConsumerTests\\ConsumerTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matteo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
@@ -35,6 +35,7 @@
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.3.2\\microsoft.testplatform.objectmodel.17.3.2.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.testplatform.testhost\\17.3.2\\microsoft.testplatform.testhost.17.3.2.nupkg.sha512",
+    "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",

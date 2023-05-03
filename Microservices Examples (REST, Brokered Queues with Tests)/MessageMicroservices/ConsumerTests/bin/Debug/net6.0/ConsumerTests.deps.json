@@ -11,6 +11,7 @@
           "FluentAssertions": "6.11.0",
           "MassTransit.TestFramework": "8.0.15",
           "Microsoft.NET.Test.Sdk": "17.3.2",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.2",
           "PaymentMicroservice": "1.0.0",
           "coverlet.collector": "3.1.2",
           "xunit": "2.4.2",
@@ -581,6 +582,7 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {},
       "Microsoft.Win32.Registry/4.7.0": {
         "dependencies": {
           "System.Security.AccessControl": "4.7.0",
@@ -1171,7 +1173,8 @@
       "PaymentMicroservice/1.0.0": {
         "dependencies": {
           "MassTransit.RabbitMQ": "8.0.14",
-          "MessageContracts": "1.0.0"
+          "MessageContracts": "1.0.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.2"
         },
         "runtime": {
           "PaymentMicroservice.dll": {}
@@ -1401,6 +1404,13 @@
       "sha512": "sha512-113J19v31pIx+PzmdEw67cWTZWh/YApnprbclFeat6szNbnpKOKG7Ap4PX5LT6E5Da+xONyilxvx2HZPpEaXPQ==",
       "path": "microsoft.testplatform.testhost/17.3.2",
       "hashPath": "microsoft.testplatform.testhost.17.3.2.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5daNXm8Hb016oETmuHXiW8jclmRR9CzM7XrOh2htYhQ/7AAYtqntZ1MrZkh09+JTtdjYdGsy2XIMPe9cg83x5w==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.17.2",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
     },
     "Microsoft.Win32.Registry/4.7.0": {
       "type": "package",

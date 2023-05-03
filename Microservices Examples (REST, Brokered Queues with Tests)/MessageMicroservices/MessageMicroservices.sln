@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentMicroservice", "Paym
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestClient", "TestClient\TestClient.csproj", "{5F0A86CD-4A7A-469E-A85E-CE5571539B14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerTests", "ConsumerTests\ConsumerTests.csproj", "{40499320-842F-4DD9-812A-7FDDEEE10556}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumerTests", "ConsumerTests\ConsumerTests.csproj", "{40499320-842F-4DD9-812A-7FDDEEE10556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerTests", "ProducerTests\ProducerTests.csproj", "{0CF87172-6D7F-4A7F-9EE0-2FAB8553E8CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProducerTests", "ProducerTests\ProducerTests.csproj", "{0CF87172-6D7F-4A7F-9EE0-2FAB8553E8CD}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{24554482-4154-40F7-B31C-8AA19A08EA1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0CF87172-6D7F-4A7F-9EE0-2FAB8553E8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CF87172-6D7F-4A7F-9EE0-2FAB8553E8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CF87172-6D7F-4A7F-9EE0-2FAB8553E8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24554482-4154-40F7-B31C-8AA19A08EA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24554482-4154-40F7-B31C-8AA19A08EA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24554482-4154-40F7-B31C-8AA19A08EA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24554482-4154-40F7-B31C-8AA19A08EA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

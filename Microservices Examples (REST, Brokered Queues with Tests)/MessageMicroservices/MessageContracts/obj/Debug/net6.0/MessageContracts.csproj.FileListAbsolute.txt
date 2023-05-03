@@ -22,3 +22,15 @@ C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.dll
 C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\refint\MessageContracts.dll
 C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.pdb
 C:\MessageMicroservices\MessageContracts\obj\Debug\net6.0\ref\MessageContracts.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.deps.json
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.pdb
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.AssemblyReference.cache
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfoInputs.cache
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfo.cs
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.CoreCompileInputs.cache
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\refint\MessageContracts.dll
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.pdb
+C:\Microservices\Microservices Examples (REST, Brokered Queues with Tests)\MessageMicroservices\MessageContracts\obj\Debug\net6.0\ref\MessageContracts.dll

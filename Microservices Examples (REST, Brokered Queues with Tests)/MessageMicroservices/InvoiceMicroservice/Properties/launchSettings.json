@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InvoiceMicroservice": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

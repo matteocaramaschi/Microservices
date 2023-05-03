@@ -1,0 +1,13 @@
+name: dockercompose14743784946594739304
+services:
+  consumertests:
+    build:
+      context: C:\Microservices\Microservices Examples (REST, Brokered Queues with
+        Tests)\MessageMicroservices
+      dockerfile: ConsumerTests/Dockerfile
+    image: consumertests
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose14743784946594739304_default

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXCzAvRdQdFeUEk83L9f8EXbRudlvQTEyQ39xHwwMGRfRSrO7Mm3MFr4HMBERtoU2M8d9yghCibwzVXwVSk5mA==",
+  "dgSpecHash": "+/p2GQ8VFpa/wXDouxBl0l/Tg7ZKqA4H30lBCFpqn1Zv0olqPUUPFtpDistHKfmVtNHFXKNInoJNhiDA3dwSqQ==",
   "success": true,
-  "projectFilePath": "C:\\MessageMicroservices\\InvoiceMicroservice\\InvoiceMicroservice.csproj",
+  "projectFilePath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\InvoiceMicroservice\\InvoiceMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matteo\\.nuget\\packages\\masstransit\\8.0.14\\masstransit.8.0.14.nupkg.sha512",
     "C:\\Users\\Matteo\\.nuget\\packages\\masstransit.abstractions\\8.0.14\\masstransit.abstractions.8.0.14.nupkg.sha512",

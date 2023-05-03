@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj": {}
+    "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj": {
+    "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
+        "projectUniqueName": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
         "projectName": "MessageContracts",
-        "projectPath": "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
+        "projectPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj",
         "packagesPath": "C:\\Users\\Matteo\\.nuget\\packages\\",
-        "outputPath": "C:\\MessageMicroservices\\MessageContracts\\obj\\",
+        "outputPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matteo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj": {
+    "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj",
+        "projectUniqueName": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj",
         "projectName": "PaymentMicroservice",
-        "projectPath": "C:\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj",
+        "projectPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj",
         "packagesPath": "C:\\Users\\Matteo\\.nuget\\packages\\",
-        "outputPath": "C:\\MessageMicroservices\\PaymentMicroservice\\obj\\",
+        "outputPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\PaymentMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matteo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj": {
-                "projectPath": "C:\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj"
+              "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj": {
+                "projectPath": "C:\\Microservices\\Microservices Examples (REST, Brokered Queues with Tests)\\MessageMicroservices\\MessageContracts\\MessageContracts.csproj"
               }
             }
           }
@@ -102,6 +102,10 @@
             "MassTransit.RabbitMQ": {
               "target": "Package",
               "version": "[8.0.14, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
             }
           },
           "imports": [

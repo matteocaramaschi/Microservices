@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PaymentMicroservice": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  consumertests:
+    image: ${DOCKER_REGISTRY-}consumertests
+    build:
+      context: .
+      dockerfile: ConsumerTests/Dockerfile
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+    - ACCEPT_EULA=Y                     #accept End-User-License-Agreement
+    - SA_PASSWORD=myStrongPassword1!    #username SA (default for system administrator) with password =
+    ports:
+    - "1433:1433"       #do not need to connect externally, but for development purposes like DataGrip/Management tools I can open the same port to connect to the database
